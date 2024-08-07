@@ -1,0 +1,28 @@
+{
+    "crypto_terms": [
+        "crypto", "AES", "RSA", "SHA", "HMAC", 
+        "encryption", "decryption", "publicKey", "privateKey",
+        "algorithm", "key", "cryptography", "EllipticCurve", 
+        "DH", "DSA", "ECDSA", "EdDSA", "HKDF", "PBKDF2", 
+        "ChaCha20", "Poly1305", "Blowfish", "Twofish", "CAST5", 
+        "Serpent", "Camellia", "ARIA", "GOST", "IDEA", "RC4", "RC5", "RC6",
+        "Whirlpool", "Skein", "Streebog", "BLAKE2", "MD5", "MD4", "MD2",
+        "Tiger", "Panama", "HAVAL", "RIPEMD", "GCM", "CCM", "OCB", "CTR",
+        "CFB", "OFB", "CBC", "XTS", "ECB", "PKCS1", "PKCS8", "PKCS12",
+        "X.509", "x448", "SHA3", "SHAKE", "KMAC", "FPE", "IBE", "ABE",
+        "LWE", "RLWE", "SIDH", "SIKE", "Kyber", "Dilithium", "Falcon",
+        "Rainbow", "Sphinx", "Picnic", "BIKE", "Frodo", "NTRU", "McEliece"
+    ],
+    "crypto_libraries": [
+        "pycryptodome", "openssl", "bcrypt", "argon2", "nacl",
+        "libsodium", "mbed TLS", "wolfSSL", "BearSSL", "PolarSSL", "Libgcrypt", 
+        "GnuPG", "Botan", "Crypto++", "LibTomCrypt", "libmcrypt", "OpenSSH",
+        "BouncyCastle", "javax.crypto", "Keyczar", "Sodium", "Tink", "scrypt", "TinyCrypt", "Libressl",
+        "SecureBlackbox", "LibOTR", "pynacl", "PyCrypto", "pycryptodomeex", 
+        "passlib", "paramiko", "SimpleCrypt", "cryptlib", "pycryptoki",
+        "CryptoJS", "JsEncrypt", "Forge", "node-forge", "crypto-browserify", "crypto-js", "crypto-promise",
+        "crypto-pouch", "jose", "fast-jose", "jose-jwe", "jose-jws", "jose-jwt",
+        "tweetnacl", "libsodium-wrappers", "python-jose", "cryptography.hazmat", "fastecdsa", 
+        "jsbn", "nettle", "GnuTLS", "GPGME", "shiro"
+    ]
+}
